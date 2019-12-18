@@ -4,7 +4,8 @@ Analysis of GHCN (www.ncdc.noaa.gov/ghcn-daily-description/) station observation
 
 Download GHCN-daily data from ( ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/daily/ ) and place them in the “ghcn_all” directory.
 
-Code for reading data: GHCH_Data_Initialization.m
+Code for reading data: GHCH_Data_Initialization.m 
+
 This codes reads GHCN-daily station observation data, separates the daily precipitation fields (the data files include other meteorological data as well), excludes stations that have less than 20 years worth of data, and and saves the station data in .mat files to be analyzed by a different code. The matlab data are saved in “Matlab Data 20years” directory.
 
 

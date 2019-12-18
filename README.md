@@ -1,6 +1,6 @@
 # Precipitation-Data-GHCN-station-observations
 
-Analysis of GHCN (www.ncdc.noaa.gov/ghcn-daily-description/) station observation data of daily precipitation to calculate trends in mean and Extreme precipitation over the period of 1951-2010, and their response to global warming.
+Analysis of GHCN (www.ncdc.noaa.gov/ghcn-daily-description/) station observation data of daily precipitation to calculate trends in Mean and Extreme precipitation over the period of 1951-2010, and their response to global warming.
 
 Download GHCN-daily data from ( ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/daily/ ) and place them in the “ghcn_all” directory.
 

@@ -10,6 +10,7 @@ This codes reads GHCN-daily station observation data, separates the daily precip
 
 
 Code for analyzing data: GHCN_PrecipitationTrend_Mean_Max_1950_2010.m
+
 This code reads .mat files created by the previous code and calculates average mean and extreme precipitation for each station and plots them on a Geo-referenced global map. It also calculates trends in mean and extreme precipitation over a 60 year period in absolute terms, relative terms, and their response to 1 degree of global warming. NASA-GISS global mean near surface temperature are used.
 
 * NOTE: most calculations here are coded extensively and simple matlab functions are not used. For example, the code itself does linear regression calculation on each station and handle NaN values and saves them into an array. Extracting Year/Month/Day values from Time variables are done manually. Percentiles are calculated manually. All of these calculations probably can be done easier and faster using other available functions.

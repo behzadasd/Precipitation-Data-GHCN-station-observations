@@ -20,4 +20,4 @@ Results are partially published in: https://onlinelibrary.wiley.com/doi/full/10.
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 ![Alt text](https://raw.githubusercontent.com/behzadasd/Precipitation-Data-GHCN-station-observations/master/Figures/MaxPRCP_Ave__GHCN_1950-2010.png)
-![Alt text](https://raw.githubusercontent.com/behzadasd/Precipitation-Data-GHCN-station-observations/master/Figures/b_prcp_temp__GHCN_1950-2010.png)
+![Alt text](https://raw.githubusercontent.com/behzadasd/Precipitation-Data-GHCN-station-observations/master/Figures/b_maxprcp_temp__GHCN_1950-2010.png)

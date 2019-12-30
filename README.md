@@ -18,4 +18,6 @@ This code reads .mat files created by the previous code and calculates average m
 
 Results are partially published in: https://onlinelibrary.wiley.com/doi/full/10.1111/1752-1688.12472
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------
+![Alt text](https://raw.githubusercontent.com/behzadasd/Precipitation-Data-GHCN-station-observations/master/Figures/MaxPRCP_Ave__GHCN_1950-2010.png)
+![Alt text](https://raw.githubusercontent.com/behzadasd/Precipitation-Data-GHCN-station-observations/master/Figures/b_prcp_temp__GHCN_1950-2010.png)
